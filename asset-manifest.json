@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Flashcard-game/static/css/main.cdbae1f6.css",
-    "main.js": "/Flashcard-game/static/js/main.7ffdacfc.js",
-    "index.html": "/Flashcard-game/index.html",
-    "main.cdbae1f6.css.map": "/Flashcard-game/static/css/main.cdbae1f6.css.map",
-    "main.7ffdacfc.js.map": "/Flashcard-game/static/js/main.7ffdacfc.js.map"
+    "main.css": "/flashcard-game/static/css/main.cdbae1f6.css",
+    "main.js": "/flashcard-game/static/js/main.7ffdacfc.js",
+    "index.html": "/flashcard-game/index.html",
+    "main.cdbae1f6.css.map": "/flashcard-game/static/css/main.cdbae1f6.css.map",
+    "main.7ffdacfc.js.map": "/flashcard-game/static/js/main.7ffdacfc.js.map"
   },
   "entrypoints": [
     "static/css/main.cdbae1f6.css",
